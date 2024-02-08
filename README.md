@@ -3,7 +3,10 @@
 
 Explore esta aplicação de notas que permite aos usuários salvar suas ideias por texto ou áudio, com transcrição automática do áudio para texto. Desenvolvida como parte da NLW Expert 2024 pela RocketSeat, esta aplicação utiliza React para uma experiência de usuário dinâmica e responsiva. Além das funcionalidades principais, adicionei alguns toques pessoais, como esquemas de cores e efeitos exclusivos, para uma experiência única. Aproveite e experimente você mesmo! 📝🎤✨
 
-![App Screenshot](https://media.discordapp.net/attachments/1172314986912165980/1194641183964659752/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/934932555407454278/1205212848297480202/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/934932555407454278/1205212929448873994/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/934932555407454278/1205213023225118840/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/934932555407454278/1205213108235411487/image.png)
 
 ## Bibliotecas utilizadas
 
